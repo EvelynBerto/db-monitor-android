@@ -16,6 +16,3 @@ Um painel de controle em tempo real para monitoramento de níveis de ruído (dec
 - Room DB
 - Koin DI
 - KSP (Kotlin Symbol Processing)
-
-## 📸 Screenshots
-*(Dica: Adicione aqui uma imagem do seu painel rodando)*
